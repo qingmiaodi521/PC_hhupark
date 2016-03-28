@@ -1,11 +1,1 @@
-# EasyPR-Java
-车牌识别软件EasyPR的Java版本，该项目尚处于Alpha版，恐怕不能达到预期效果
-
-
-|版本 | 开发者 | 版本 | 地址 
-|------|-------|-------|-------
-| windows | liuruoze |  1.2  |  [liuruoze/EasyPR](https://github.com/liuruoze/EasyPR) 
-| android |  goldriver  |  1.1  |  [linuxxx/EasyPR_Android](https://github.com/linuxxx/EasyPR_Android)
-| linux | Micooz  |  1.2  |  已跟EasyPR整合
-| ios | zhoushiwei |  1.1  |  [zhoushiwei/EasyPR-iOS](https://github.com/zhoushiwei/EasyPR-iOS)
-| mac | zhoushiwei |  1.1  | [zhoushiwei/EasyPR](https://github.com/zhoushiwei/EasyPR)
+毕业设计 尚未完成，无参考价值
