@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/usr/local/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/sqlfiles/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/artoolkitplus-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/ffmpeg-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/javacpp.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/javacv.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/libfreenect.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/opencv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/javacv_jars/opencv.jar"/>
+	<classpathentry kind="lib" path="/Users/BlackWhite/Documents/graduate/pcqrcreate/core-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
